@@ -1,0 +1,2 @@
+Gallabox WhatsApp test document.
+This is a sample text file for API testing.
